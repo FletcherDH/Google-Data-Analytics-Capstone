@@ -3,10 +3,13 @@ Here I showcase my approach to solving the Google Data Analytics Certificate Cap
 
 As I learned throughout the course, I will use the six phases of the data analysis process to help complete this project.
 
-About the Company
+About the Company:
+
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, team wants to understand how casual riders and annual members use Cyclistic bikes differently.
-Business Task
+
+Business Task:
+
 Help analyze data to answer this question: How do annual members and casual riders use Cyclistic bikes differently?
 
 Step 1: Ask
